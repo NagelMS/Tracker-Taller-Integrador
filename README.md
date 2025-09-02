@@ -3,7 +3,7 @@
 En este repositorio se realiza el desarrollo de **firmware** para un módulo *tracker* con la placa de desarrollo **LilyGo's T-Beam ESP32 LoRa 433MHz SX1276** por los estudiantes: 
 - `Nagel Mejía Segura`
 - `Óscar González Cambronero`
-- `Wilberth Gutiérrez Montero` 👺
+- `Wilberth Gutiérrez Montero`
 
 ## Table of Contents
 1. [Conceptos Teoricos](#conceptos-teoricos)
@@ -60,6 +60,10 @@ En este repositorio se realiza el desarrollo de **firmware** para un módulo *tr
 ---
 
 ## Estructura de Directorios
+
+```
+
+```
 
 - `lib`: Contiene librerías propias de LilyGo, obtenido externamente.
 - `ejemplos_lilygo`: Contiene código fuente de ejemplos propios de LilyGo, obtenido externamente.

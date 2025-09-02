@@ -1,18 +1,18 @@
 {
 	"beacons": [
 		{
-			"callsign": "NOCALL-7",
+			"callsign": "TI0TEC2-7",
 			"gpsEcoMode": false,
 			"symbol": "[",
 			"overlay": "/",
 			"micE": "",
-			"comment": "",
+			"comment": "Hola",
 			"smartBeaconActive": true,
 			"smartBeaconSetting": 0,
 			"profileLabel": ""
 		},
 		{
-			"callsign": "NOCALL-7",
+			"callsign": "TI0TEC2-7",
 			"gpsEcoMode": false,
 			"symbol": ">",
 			"overlay": "/",
@@ -23,7 +23,7 @@
 			"profileLabel": ""
 		},
 		{
-			"callsign": "NOCALL-7",
+			"callsign": "TI0TEC2-7",
 			"gpsEcoMode": false,
 			"symbol": "b",
 			"overlay": "/",
