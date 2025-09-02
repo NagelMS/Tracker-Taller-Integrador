@@ -62,11 +62,14 @@ En este repositorio se realiza el desarrollo de **firmware** para un módulo *tr
 ## Estructura de Directorios
 
 ```
-
+Estructura
+├── documentacion/               - Reportes, Avances, Bitacoras 
+├── extra/                       - Ejemplos extra para ESP32
+|    ├── lib                     - Contiene librerías propias de LilyGo, obtenido externamente.
+|    └── ejemplos_lily           - Contiene código fuente de ejemplos propios de LilyGo, obtenido externamente.
+├── firmware/                    - Firmware general del sistema
+└── README.md
 ```
-
-- `lib`: Contiene librerías propias de LilyGo, obtenido externamente.
-- `ejemplos_lilygo`: Contiene código fuente de ejemplos propios de LilyGo, obtenido externamente.
 
 ## Diagrama de Flujo 
 
