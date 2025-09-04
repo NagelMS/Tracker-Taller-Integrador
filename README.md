@@ -14,8 +14,9 @@ En este repositorio se realiza el desarrollo de **firmware** para un módulo *tr
 3. [Diagrama de Flujo](#diagrama-de-flujo)
 4. [Construcción](#construcción)
     - [Ejemplos](#ejemplos-lilygo)
-5. [Fuentes de Información](#fuentes-de-información)
-6. [Cronograma](#cronograma-de-trabajo)
+5. [Agradecimientos](#agradecimientos)
+6. [Fuentes de Información](#fuentes-de-información)
+7. [Cronograma](#cronograma-de-trabajo)
 
 ## Conceptos Teoricos
 
@@ -84,6 +85,13 @@ graph TD;
 ## Construcción
 
 ### Ejemplos LilyGo
+
+
+## Agradecimientos
+
+A Ricardo Guzman (CA2RXU) por su repositorio en el cual se baso el proyecto
+
+Enlace del Repositorio: https://github.com/richonguzman/LoRa_APRS_Tracker 
 
 
 ## Fuentes de Información
