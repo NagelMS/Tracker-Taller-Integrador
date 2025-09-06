@@ -3,10 +3,10 @@
 		{
 			"callsign": "TI0TEC2-7",
 			"gpsEcoMode": false,
-			"symbol": "[",
+			"symbol": "p",
 			"overlay": "/",
 			"micE": "",
-			"comment": "Hola",
+			"comment": "Grupo #2 https://github.com/NagelMS/proyecto-taller-integrador",
 			"smartBeaconActive": true,
 			"smartBeaconSetting": 0,
 			"profileLabel": ""
@@ -36,8 +36,8 @@
 	],
 	"display": {
 		"showSymbol": true,
-		"ecoMode": false,
-		"timeout": 4,
+		"ecoMode": true,
+		"timeout": 5,
 		"turn180" : false
     },
 	"battery": {
@@ -49,7 +49,7 @@
 	},
 	"other": {
 		"simplifiedTrackerMode": false,
-		"sendCommentAfterXBeacons": 10,
+		"sendCommentAfterXBeacons": 1,
 		"path": "WIDE1-1",
 		"nonSmartBeaconRate": 15,
 		"rememberStationTime": 30,
